@@ -1,2 +1,0 @@
-# courseera-test
-coursera test
